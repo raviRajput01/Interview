@@ -101,6 +101,8 @@
 		F965FE402BA89AE400DBD5E1 /* InterviewPrepration */ = {
 			isa = PBXGroup;
 			children = (
+				F965FE7B2BA8C60800DBD5E1 /* Common */,
+				F965FE7A2BA8C5FC00DBD5E1 /* Infrastructure */,
 				F965FE792BA8C5C300DBD5E1 /* Data */,
 				F965FE782BA8C5B800DBD5E1 /* Domain */,
 				F965FE772BA8AAB800DBD5E1 /* Application */,
@@ -160,6 +162,20 @@
 			children = (
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		F965FE7A2BA8C5FC00DBD5E1 /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		F965FE7B2BA8C60800DBD5E1 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Common;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
