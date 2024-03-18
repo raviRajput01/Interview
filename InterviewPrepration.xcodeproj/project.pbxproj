@@ -101,6 +101,8 @@
 		F965FE402BA89AE400DBD5E1 /* InterviewPrepration */ = {
 			isa = PBXGroup;
 			children = (
+				F965FE792BA8C5C300DBD5E1 /* Data */,
+				F965FE782BA8C5B800DBD5E1 /* Domain */,
 				F965FE772BA8AAB800DBD5E1 /* Application */,
 				F965FE762BA8AAAD00DBD5E1 /* Presentation */,
 				F965FE412BA89AE400DBD5E1 /* AppDelegate.swift */,
@@ -144,6 +146,20 @@
 			children = (
 			);
 			path = Application;
+			sourceTree = "<group>";
+		};
+		F965FE782BA8C5B800DBD5E1 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		F965FE792BA8C5C300DBD5E1 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
