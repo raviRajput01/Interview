@@ -101,6 +101,8 @@
 		F965FE402BA89AE400DBD5E1 /* InterviewPrepration */ = {
 			isa = PBXGroup;
 			children = (
+				F965FE772BA8AAB800DBD5E1 /* Application */,
+				F965FE762BA8AAAD00DBD5E1 /* Presentation */,
 				F965FE412BA89AE400DBD5E1 /* AppDelegate.swift */,
 				F965FE432BA89AE400DBD5E1 /* SceneDelegate.swift */,
 				F965FE452BA89AE400DBD5E1 /* ViewController.swift */,
@@ -128,6 +130,20 @@
 				F965FE672BA89AE600DBD5E1 /* InterviewPreprationUITestsLaunchTests.swift */,
 			);
 			path = InterviewPreprationUITests;
+			sourceTree = "<group>";
+		};
+		F965FE762BA8AAAD00DBD5E1 /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		F965FE772BA8AAB800DBD5E1 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Application;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
